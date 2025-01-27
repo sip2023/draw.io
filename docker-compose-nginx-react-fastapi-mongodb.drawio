@@ -7,23 +7,32 @@
         <mxCell id="hw2XOn7Ny-QnB-BcPnhI-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="340" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="237" width="670" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-13" value="nginx" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="248" y="350" width="68" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-14" value="react" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="98" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-15" value="fastAPI" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="325" width="104" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-16" value="mongodb" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="740" y="350" width="95" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="hw2XOn7Ny-QnB-BcPnhI-19" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="177.5" width="890" height="482.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="215" width="840" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="277.5" width="670" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hw2XOn7Ny-QnB-BcPnhI-20">
+          <mxGeometry width="670" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-13" value="nginx" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="hw2XOn7Ny-QnB-BcPnhI-20">
+          <mxGeometry x="48" y="113" width="68" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-14" value="react" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="hw2XOn7Ny-QnB-BcPnhI-20">
+          <mxGeometry x="190" y="113" width="98" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-15" value="fastAPI" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="hw2XOn7Ny-QnB-BcPnhI-20">
+          <mxGeometry x="360" y="88" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="hw2XOn7Ny-QnB-BcPnhI-16" value="mongodb" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="hw2XOn7Ny-QnB-BcPnhI-20">
+          <mxGeometry x="540" y="113" width="95" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
